@@ -1,0 +1,71 @@
+
+//Installation configuration and execution of the script
+
+// Understatnding cofig file
+
+//Changing the configuration file
+
+// Working with sigle it - clock execution
+
+______________________________
+
+Execution:
+
+1. npx cypress open -> execute the spec
+
+2. Execute from terminal -- headless browser
+
+   npx cypress run  - 10 sp files
+
+   npx cypress run spec <Relative path>
+
+   npx cypress run --browser chrome --headed
+
+   
+
+// Locators
+id , name , className , TagName ,cssSelector
+
+//To provide the input :
+
+cy.get('csSelector').type("testdata");
+
+//Click on a button:
+
+cy.get('cssSelector').click();
+
+//Select element from dropdown :
+
+cy.get('SelectID').select("Mumbai");
+
+// click on a link using contains()
+
+cy.contains("LinkName").click();
+
+// popup
+
+Pending task:
+   1. WebTable
+   2. Alert handle
+   3. assert for checkpoint
+   4. Implementation of POM
+
+______________________________________________-
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

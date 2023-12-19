@@ -1,0 +1,68 @@
+Usernm : testdata
+Passwd: testdata
+LoginButton: na
+unm1 : <cssSelector>
+pwd1: <cssselector>
+button1: <cssSelector>
+
+TC001_Login
+
+1. Launch the app
+2. Enter the username
+3. Enter the password
+4. Click on login button
+
+
+page1 title : Your store. Login
+page2 title: Dashboard / nopCommerce administration //dom
+
+validation:
+validation point ----- expected result <-> Actual result
+cy.title().should('eq','Dashboard / nopCommerce administration')
+
+
+----- use your empty folder to create the project template in cypress / vscode-----
+
+Open the folder from vscode
+Run the require commands to execute the sample spec file from Cypress Runner.
+npx cypress open
+
+
+//statement for invoke app
+// Enter username
+// Enter password
+//click login-----> page title
+// user validation point 
+
+++++++++++++++++++++++++++++++++++
+
+POM - Page object model
+
+Design Pattern 
+
+
+[Regression Testing]<---- change request 
+
+
+components:
+Test script -----> Part1 Repos
+Function library ---->Part2
+Object Repos
+Testdata
+
+
+
+
+
+invoking -----
+   
+End To End ...
+
+e2e folder <----- make sure it is empty
+Naming convention 
+   spec1.cy.js <----- One specification in the requirement
+
+
+
+  
+

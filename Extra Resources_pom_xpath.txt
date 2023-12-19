@@ -1,0 +1,7 @@
+Cypress with POM:
+
+https://www.google.com/search?q=pom+in+cypress&sca_esv=591027850&tbm=vid&sxsrf=AM9HkKmZRETc1N3dwg3P3OWpHAjXiQ6NjA:1702596018146&source=lnms&sa=X&ved=2ahUKEwio5-22iJCDAxWqyzgGHVZUD1sQ_AUoA3oECAUQBQ&biw=1280&bih=587&dpr=1.5#fpstate=ive&vld=cid:9b8f5474,vid:5ifXs65O36k,st:0
+
+How to use xpath in cypress :
+
+https://medium.com/@2019cs008/xpath-in-cypress-automation-2b9a8aee9883
